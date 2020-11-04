@@ -1,0 +1,5 @@
+server:
+  port: 3002
+  
+config:
+  info: this is a config-test version=1
